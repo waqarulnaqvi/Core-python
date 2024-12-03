@@ -1,0 +1,32 @@
+l=[13,22,2,322,4,5,4]
+print(l)
+l.append(12)
+print(l)
+l.sort()
+print(l)
+l.sort(reverse=True)
+print(l)
+l.sort(reverse=False)
+print(l)
+l.reverse()
+print(l)
+print(l.index(4))
+print(l.index(13))
+print(l.index(12))
+print(l.count(2))
+print(l.count(21))
+print(l.count(4))
+m=l
+m[0]=0
+print(l)
+m=l.copy()
+m[0]=12
+print(l)
+l.insert(1,121)
+print(l)
+m=[1212,343,6767]
+# l.extend(m)
+# print(l)
+k=l+m
+print(k)
+print(l)

@@ -1,0 +1,1 @@
+print("Everyone has to face the consequences")

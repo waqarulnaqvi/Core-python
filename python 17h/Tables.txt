@@ -1,0 +1,30 @@
+Multiple of 77 is: 
+ [77, 154, 231, 308, 385, 462, 539, 616, 693, 770] 
+
+Multiple of 343 found in list is: 
+ [] 
+
+Multiple of 4 found in list is: 
+ [44, 64] 
+
+Multiple of 8 found in list is: 
+ [64] 
+
+Multiple of 2 found in list is: 
+ [2, 44, 64, 22, 22] 
+
+Multiple of 20 found in list is: 
+ [] 
+
+Multiple of 44 is: 
+ [44, 88, 132, 176, 220, 264, 308, 352, 396, 440] 
+
+Multiple of 2 is: 
+ [2, 4, 6, 8, 10, 12, 14, 16, 18, 20] 
+
+Multiple of 2 is: 
+ [2, 4, 6, 8, 10, 12, 14, 16, 18, 20] 
+
+Multiple of 5000000 is: 
+ [5000000, 10000000, 15000000, 20000000, 25000000, 30000000, 35000000, 40000000, 45000000, 50000000] 
+

@@ -1,0 +1,80 @@
+"Name is 12121"
+    
+phone number and Emergency number is (650, 650)
+    
+Gender is 1212121
+    
+Payment mode is 1212
+    
+food service is 1
+    
+Value is submitted!!
+
+")"Name is 12121"
+    
+phone number and Emergency number is (650, 650)
+    
+Gender is 1212121
+    
+Payment mode is 1212
+    
+food service is 0
+    
+Value is submitted!!
+
+")"Name is 2323"
+    phone number and Emergency number is (1242, 1235)
+    Gender is 23323
+    Payment mode is 2323
+    food service is 1
+    Value is submitted!!
+
+"Name is 2323"
+    phone number and Emergency number is (1242, 1235)
+    Gender is 23323
+    Payment mode is 2323
+    food service is 0
+    Value is submitted!!
+
+Name is 23232"
+    phone number and Emergency number is (1235, 1235)
+    Gender is 23
+    Payment mode is 2323
+    food service is 1
+    Value is submitted!!
+
+Name is qeqwe"
+    phone number and Emergency number is (1235, 1235)
+    Gender is 2323
+    Payment mode is 2323
+    food service is 
+    Value is submitted!!
+
+Name is qeqwe"
+    phone number and Emergency number is (1235, 1235)
+    Gender is 2323
+    Payment mode is 2323
+    food service is 0
+    Value is submitted!!
+
+Name is qeqwe"
+    phone number and Emergency number is (1235, 1235)
+    Gender is 2323
+    Payment mode is 2323
+    food service is 1
+    Value is submitted!!
+
+Name is qeqwe"
+    phone number and Emergency number is (1235, 1235)
+    Gender is 2323
+    Payment mode is 2323
+    food service is 1
+    Value is submitted!!
+
+Name is qeqwe"
+    phone number and Emergency number is (1235, 1235)
+    Gender is 2323
+    Payment mode is 2323
+    food service is 0
+    Value is submitted!!
+
